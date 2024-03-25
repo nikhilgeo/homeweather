@@ -1,12 +1,13 @@
-# homeweather
+# Homeweather
+
 
 ## MVP
-### On a display show 
+On a display show:
 - [ ] Current whether at current location from internet.
 - [ ] Current Date and time.
 - [ ] Current Humidity in the room.
 - [ ] Current Co2 in the room.
-### Required Hardware components
+## Required Hardware components
 - [ ] [Raspberry Pi 5 (8GB)](https://thepihut.com/products/raspberry-pi-5?variant=42531604955331)
 - [ ] [Active Cooler for Raspberry Pi 5](https://thepihut.com/products/active-cooler-for-raspberry-pi-5?variant=42531603906755)
 - [ ] [SanDisk 128GB Ultra microSDXC card + SD adapter up to 140 MB/s with A1 App Performance UHS-I Class 10 U1](https://www.amazon.co.uk/dp/B0B7NTY2S6?psc=1&smid=A3P5ROKL5A1OLE&ref_=chk_typ_imgToDp)
